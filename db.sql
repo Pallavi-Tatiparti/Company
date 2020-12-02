@@ -1,2 +1,0 @@
-use credence;
-CREATE TABLE Picture(id INTEGER(45) NOT NULL AUTO_INCREMENT PRIMARY KEY, summary varchar(200),photo LONGBLOB NOT NULL);
